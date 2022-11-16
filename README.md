@@ -23,3 +23,11 @@ Please complete the following coding exercises and submit your code to us.
 ## How to submit the code?
 
 Please upload the completed code to a personal git repository and share the link to your repository with us.
+
+************************************************************************************************************
+*************************************************************************************************************
+to run a server : npm run dev 
+to start the react app : npm start
+
+rendu:
+
